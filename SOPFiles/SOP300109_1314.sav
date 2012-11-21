@@ -1,0 +1,10 @@
+                          Testprotokoll IFK FG380.221
+                          ===========================
+
+Datum: 30.01.09    Uhrzeit: 13:14
+Prüfer: Mister L
+
+             Testergebnis
+Lfd.Nr       PT   1    2    3    4    5    6    7    8    9    PF   Ergebnis
+----------------------------------------------------------------------------
+1            OK   OK   OK   OK   OK   OK   OK   OK   OK    X   OK   FEHLER
